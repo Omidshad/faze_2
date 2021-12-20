@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(kindergarten)
+set(CMAKE_CXX_STANDARD 11)
+include_directories(include)
+add_executable(app src/main.cpp src/device.cpp src/book.cpp src/child.cpp src/kindergarten.cpp src/person.cpp src/teacher.cpp src/buy.cpp)
