@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/omid-ph4.dir/omid-ph4_autogen/mocs_compilation.cpp.o  -o omid-ph4  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 
